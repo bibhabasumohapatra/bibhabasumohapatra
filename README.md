@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 ## About me : I  overfit xgboost on a daily basis,
- #### I am a movie person on the weekends and Deep Learner and Machine Learner on the weekdays ,I disscuss ml stuff on kaggle ...and try to engage in discussions as much as possible , try lot of kaggle competitions and learn from kaggle competitions.              Currently undergrad at IIIT Bhubaneswar in Computer Science and Engineering.
+ #### I am a movie person on the weekends and Deep Learner and Machine Learner on the weekdays ,I disscuss ml stuff on kaggle ...and try to engage in discussions as much as possible. I try lot of kaggle competitions and learn from kaggle competitions.              Currently undergrad at IIIT Bhubaneswar in Computer Science and Engineering.
  #### Focussing on Deep Learning and its application in Computer Vision and Natural Language Processing. And looking for Summer Internships.
 
 - 🔭 I’m currently working on  Kaggle Competitions - Sartorius - Cell Instance Segmentation  AND Jigsaw Rate Severity of Toxic Comments 
