@@ -2,14 +2,15 @@
 
 <!--
 **bibhabasumohapatra/bibhabasumohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
+-->
+
 
 - 🔭 I’m currently working on  Kaggle Competitions - Sartorius - Cell Instance Segmentation  AND Jigsaw Rate Severity of Toxic Comments 
 - 🌱 I’m currently learning Natural Language processing from CS224N Stanford youtube and Deep Learning - Aaron Courville, Ian Goodfellow, and Yoshua Bengio
 - 👯 I’m looking to work in Research Internships - and Data Science Internships
 - 🤔 I’m looking for help with Natural Language Processing and MLOps
-- 💬 Ask me about Image Classification, Pytorch, Machine Learning 
+
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
