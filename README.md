@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-## About me : I  overfit xgboost on a daily basis,
+## Computer Vision, Quantitavie Mathematics, Data Science 
+
+### About me : I  overfit xgboost on a daily basis,
  #### I am a movie person on the weekends and Deep Learner and Machine Learner on the weekdays ,I disscuss ml stuff on kaggle ...and try to engage in discussions as much as possible. I try lot of kaggle competitions and learn from kaggle competitions.              Currently undergrad at IIIT Bhubaneswar in Computer Science and Engineering.
- #### Focussing on Deep Learning and its application in Computer Vision and Natural Language Processing. And looking for Summer Internships.
+ #### Focussing on Deep Learning and its application in Computer Vision and Natural Language Processing. And looking for Internships.
 
 - 🔭 I’m currently working on  Kaggle Competitions - Sartorius - Cell Instance Segmentation  AND Jigsaw Rate Severity of Toxic Comments 
 - 🌱 I’m currently learning Natural Language processing from CS224N Stanford youtube and Deep Learning - Aaron Courville, Ian Goodfellow, and Yoshua Bengio
