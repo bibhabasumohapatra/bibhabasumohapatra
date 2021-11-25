@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.kaggle.com/bibhabasumohapatra">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"  />
-</a
+</a>
 <a href="mailto:bibhabasumohapatrabm@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
