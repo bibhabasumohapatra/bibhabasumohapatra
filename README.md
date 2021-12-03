@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to work in Research Internships - and Data Science Internships
 - 🤔 I’m looking for help with Natural Language Processing and MLOps
 #### Kaggle Participation : 
-- Notebooks Expert  6 bronze medals ![image](https://user-images.githubusercontent.com/68384968/143054883-4277be0a-b0e3-4ad2-95c8-3c707db2d8ed.png) and 3 silver and 24 bronze in discussions.![image](![image](https://user-images.githubusercontent.com/68384968/144617046-158234f9-d037-41b2-8d4d-ce9b42b4996b.png))
+- Notebooks Expert  6 bronze medals ![image](https://user-images.githubusercontent.com/68384968/143054883-4277be0a-b0e3-4ad2-95c8-3c707db2d8ed.png) and 3 silver and 24 bronze in discussions.![image](https://user-images.githubusercontent.com/68384968/144617336-e84369f8-cf4c-4e2a-8b6b-735232beb121.png)
 
 ### Some Notebooks and repos 
 - ### Top 40% Solution to Pets Pawpularity Kaggle Competition (Image Classification) :
