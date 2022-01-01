@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   - #### Tutorial to Xgboost Classifier https://www.kaggle.com/bibhabasumohapatra/xgboost-kfolds-october-playground
 
 <br />
-# Currently Contributing and focussing on PyTorch Ignite and Kaggle Competitions
+### Currently Contributing and focussing on PyTorch Ignite and Kaggle Competitions
 
 ![bibhabasu's github stats](https://github-readme-stats.vercel.app/api?username=bibhabasumohapatra&show_icons=true&hide_border=true&theme=dracula)
 
