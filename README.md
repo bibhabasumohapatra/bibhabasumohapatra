@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-## Computer Vision, Quantitavie Mathematics, Data Science 
+## PyTorchian, Computer Vision, Quantitative Mathematics, Data Science 
 
 ### About me : I  overfit xgboost on a daily basis,
  #### I am a movie person on the weekends and Deep Learner and Machine Learner on the weekdays ,I discuss ml stuff on kaggle ...and try to engage in discussions as much as possible. I try lot of kaggle competitions and learn from kaggle competitions.              Currently undergrad at IIIT Bhubaneswar in Computer Science and Engineering.
