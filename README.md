@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bibhabasumohapatra/discussion)
 
 ### Some Notebooks and repos 
+- ### clean Only PyTorch Approach with Huggingface Models - US patent phrase to phrase matching kaggle Competition
+  - #### Training NB - https://www.kaggle.com/code/bibhabasumohapatra/train-us-patent-part-1-simple-pytorch
+  - #### Inference - https://www.kaggle.com/code/bibhabasumohapatra/inference-us-patent-part-1-simple-pytorch
 - ### Top 40% Solution to Pets Pawpularity Kaggle Competition (Image Classification) :
   - #### Kaggle link for Jupyter Notebook https://www.kaggle.com/bibhabasumohapatra/not-only-the-meta-data-but-ensembled
   - #### well managed Github Repo of the Implementation https://github.com/bibhabasumohapatra/Pawpularity-Kaggle
