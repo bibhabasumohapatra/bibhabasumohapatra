@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Natural Language processing from CS224N Stanford youtube and Deep Learning - Aaron Courville, Ian Goodfellow, and Yoshua Bengio
 - 👯 I’m looking to work in Research Internships - and Data Science Internships
 - 🤔 I’m looking for help with Natural Language Processing and MLOps
-#### Kaggle Participation : 
+#### Kaggle Participation :
+
 - ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/bibhabasumohapatra)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bibhabasumohapatra/competition)
@@ -64,6 +65,7 @@ Here are some ideas to get you started:
   - #### Tutorial to Xgboost Classifier https://www.kaggle.com/bibhabasumohapatra/xgboost-kfolds-october-playground
 
 <br />
+
 ### Currently Contributing and focussing on PyTorch Ignite and Kaggle Competitions
 
 ![bibhabasu's github stats](https://github-readme-stats.vercel.app/api?username=bibhabasumohapatra&show_icons=true&hide_border=true&theme=dracula)
