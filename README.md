@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to work in Research Internships - and Data Science Internships
 - 🤔 I’m looking for help with Natural Language Processing and MLOps
 #### Kaggle Participation :
-
+https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white
 - ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/bibhabasumohapatra)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bibhabasumohapatra/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bibhabasumohapatra/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bibhabasumohapatra/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bibhabasumohapatra/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/discussion)
 
 ### Some Notebooks and repos
 - ### Won a bronze medal rank 80th Top 7\% (80/1245) in the HuBMAP + HPA - Hacking the Human Body Competition (Image Segmentation) hosted on Kaggle:
