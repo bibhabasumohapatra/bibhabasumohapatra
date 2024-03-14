@@ -33,16 +33,6 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-## PyTorchian, Computer Vision, NLP, Quantitative Mathematics, Data Science 
-
-### About me: I  don't overfit xgboost, and train my transformers. 
- #### I am a movie person on the weekends and Deep Learner and Machine Learner on the weekdays ,I discuss ml stuff on Kaggle...and try to engage in discussions as much as possible. I try lot of kaggle competitions and learn from kaggle competitions.              Currently undergrad at IIIT Bhubaneswar in Computer Science and Engineering.
- #### Focussing on Deep Learning and its application in Computer Vision and Natural Language Processing...
-
-- 🔭 I’m currently working on Medical Images Like Radiology and Whole Slide Tissue Images
-- 🌱 I’m currently learning lot of stuff and especially interested in  
-- 👯 I’m looking to work in Research Internships - and Data Science Internships
-- 🤔 I’m looking for help with Natural Language Processing and MLOps
 #### Kaggle Participation :
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
   <img align="left" width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"  />
