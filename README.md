@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 </a>
 <br />
 
+### profile page:
+https://bibhabasumohapatra.github.io/
+
 #### Kaggle Participation :
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
   <img align="left" width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"  />
