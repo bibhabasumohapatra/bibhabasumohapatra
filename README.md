@@ -28,22 +28,28 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br></br>
 profile page: https://bibhabasumohapatra.github.io/
 
 #### Kaggle Participation :
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
   <img align="left" width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"  />
 </a>
-<br></br>
+<br>
 
 ![image](https://github.com/bibhabasumohapatra/bibhabasumohapatra/assets/68384968/12409145-62fa-438b-98cb-6aa403ea6f62)
-
+</br>
 ### Some Notebooks
 
 - ### Won a bronze medal rank 80th Top 7\% (80/1245) in the HuBMAP + HPA - Hacking the Human Body Competition (Image Segmentation) hosted on Kaggle:
-  - **Well-managed GitHub Repo of the Implementation:** [GitHub Repo](https://github.com/bibhabasumohapatra/HuBMAP-HPA-Hacking-the-Human-Body)
+  - **GitHub Repo of the Implementation:** [GitHub Repo](https://github.com/bibhabasumohapatra/HuBMAP-HPA-Hacking-the-Human-Body)
   - **Kaggle link for Jupyter Notebook:** [Submission Notebook best Result](https://www.kaggle.com/code/bibhabasumohapatra/rank-80-coat-inference-final-for-lb-part-3)
 
+- ### Vision Transformer and Visualizing Attentions and Latents from scratch:
+  - **GitHub Repo of the Implementation:** [GitHub Repo](https://github.com/bibhabasumohapatra/Vision_Transformer_from_scratch)
+  - **YouTube Video Implementation:** [Implementation](https://youtu.be/7q3NGMkEtjI?si=UgzcWmRbAdjZfMuP)
+  - **YouTube Video Visualization:** [Visualization](https://youtu.be/g-470mvLSqI?si=DthxhxNnYQDVIL4D)
+   
 - ### How EMA Works?
   - **Illustrated Example:** [NoteBook](https://www.kaggle.com/code/bibhabasumohapatra/understanding-how-ema-works)
     
