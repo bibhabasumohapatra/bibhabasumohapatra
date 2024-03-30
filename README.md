@@ -70,12 +70,12 @@ profile page: https://bibhabasumohapatra.github.io/
 - ### Ensembles with folds some Tabular Playground Series:
   - **Tutorial to LightGBM:** [LightGBM Tutorial](https://www.kaggle.com/bibhabasumohapatra/october-playground-with-lgbclassifier)  
   - **Tutorial to XGBoost Classifier:** [XGBoost Tutorial](https://www.kaggle.com/bibhabasumohapatra/xgboost-kfolds-october-playground)
-
+<!--
 ![image](https://github.com/bibhabasumohapatra/bibhabasumohapatra/assets/68384968/12409145-62fa-438b-98cb-6aa403ea6f62)
 
 ![bibhabasu's github stats](https://github-readme-stats.vercel.app/api?username=bibhabasumohapatra&show_icons=true&hide_border=true&theme=dracula)
-
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=bibhabasumohapatra&hide_border=true" />
+-->
 
 [![@bibhabasu's Holopin board](https://holopin.me/bibhabasu)](https://holopin.io/@bibhabasu)
 
