@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 <br></br>
-profile page: https://bibhabasumohapatra.github.io/
+profile page: [bibhabasu-mohapatra.space](https://bibhabasu-mohapatra.space/)
 
 #### Kaggle Participation :
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
