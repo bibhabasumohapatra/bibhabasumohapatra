@@ -57,7 +57,7 @@ profile page: [bibhabasu-mohapatra.space](https://bibhabasu-mohapatra.space/)
   - **timm Implementation:** [Cosine Annealing Meaning](https://www.kaggle.com/code/bibhabasumohapatra/how-does-your-cosine-annealing-with-warm-up-works)
 
 - ### How to do Deep Supervision without much inside Segmentation Models PyTorch?
-  - Changing git repo of smp (Segmentation models PyTorch): [Notebook](https://www.kaggle.com/code/bibhabasumohapatra/how-does-your-cosine-annealing-with-warm-up-works)
+  - Changing git repo of smp (Segmentation models PyTorch): [Notebook](https://www.kaggle.com/code/bibhabasumohapatra/deep-supervised-in-segmentation-models-pytorch)
  
 - ### Approach with Huggingface Models - US patent phrase to phrase matching Kaggle Competition
   - **Training NB:** [Training Notebook](https://www.kaggle.com/code/bibhabasumohapatra/train-us-patent-part-1-simple-pytorch)
