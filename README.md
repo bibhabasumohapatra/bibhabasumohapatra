@@ -1,16 +1,8 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I'm Bibhabasu 
-<!--
-**bibhabasumohapatra/bibhabasumohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on  Kaggle Competitions - Sartorius - Cell Instance Segmentation  AND Jigsaw Rate Severity of Toxic Comments 
-- 🌱 I’m currently learning lot about Self Supervised and Energy based Things. Interested in unifying all Energies, Bayesian, GAN Planning, and Diffusions 
-- 👯 I’m looking to work in Research Internships - and Data Science Internships
-- 🤔 I’m looking for help with Natural Language Processing and MLOps
--->
  
 <a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/bibhabasuM1610">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,14 +20,15 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+
+
+<br>
 <br></br>
-profile page: [bibhabasu-mohapatra.space](https://bibhabasu-mohapatra.space/)
+🌐 Profile Page- <a href="https://bibhabasu-mohapatra.space">
+  bibhabasu-mohapatra.space
+</a>
 
 #### Kaggle Participation :
-<a href="https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193/">
-  <img align="left" width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"  />
-</a>
-<br>
 
 ![image](https://github.com/bibhabasumohapatra/bibhabasumohapatra/assets/68384968/12409145-62fa-438b-98cb-6aa403ea6f62)
 </br>
